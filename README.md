@@ -1,1 +1,3 @@
 # Devil-Whisper-Attack
+
+&emsp;&emsp;We present Devil’s Whisper, a general adversarial attack on commercial ASR systems. Our idea is to enhance a simple local model roughly approximating the target model of an ASR system with a white-box model that is more advanced yet unrelated to the target. We find that these two models can effectively complement each other in predicting the target’s behavior, which enables highly transferable and generic attacks on the target. The adversarial examples (AEs) can effectively exploit the commercial devices (Google Home, Amazon Echo, Microsoft Cortana, etc) with 96% of the target commands successful on average.
