@@ -9,15 +9,23 @@ Target IVC service: Google Assistant
 01.wav - Okay Google, take a picture.
 
 02.wav - Okay Google, navigate to my home.
+
 Target IVC service: Google Home
 
 03.wav - Okay Google, turn off the light.
+
 04.wav - Okay Google, play music.
+
 Target IVC service: Microsoft Cortana
+
 05.wav - Hey Cortana, open the website.
+
 06.wav - Hey Cortana, make it warmer.
+
 Target IVC service: Amazon Echo
+
 07.wav - Echo, call my wife.
+
 08.wav - Echo, turn off the computer.
 
 The success of an AE depends on the quality of the speaker (to play the AEs) and the microphone of a target device (to receive the AEs on the device), also effeted by many other factors like volume, distance between speaker and target device, the angle between the speaker and IVC device.
