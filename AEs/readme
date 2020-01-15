@@ -1,6 +1,6 @@
 Target IVC service: Google Assistant
 
-    01.wav/01_TTS_music.wav - Okay Google, take a picture.
+    01.wav/01_TTS_music.wav - Okay Google, take a picture.            demo of 01.wav: https://youtu.be/7HRn3m-Z-GU   SRoA: 5/30
 
     02.wav/02_TTS_music.wav - Okay Google, navigate to my home.       demo of 02.wav: https://youtu.be/6124d5NsOG4   SRoA: 18/30
 
@@ -18,6 +18,6 @@ Target IVC service: Microsoft Cortana
 
 Target IVC service: Amazon Echo
 
-    07.wav/07_TTS_music.wav - Echo, call my wife.                                     
+    07.wav/07_TTS_music.wav - Echo, call my wife.                     demo of 07.wav   https://youtu.be/XFuzIVkMUBk    SRoA: 17/30                                   
 
     08.wav/08_TTS_musicwav - Echo, turn off the computer.             demo of 08.wav:  https://youtu.be/amL2XU4--20   SRoA: 11/30
