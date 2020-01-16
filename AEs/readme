@@ -6,9 +6,9 @@ Target IVC service: Google Assistant
 
 Target IVC service: Google Home
 
-    03.wav/03_TTS_music.wav - Okay Google, turn off the light.       
+    03.wav/03_TTS_music.wav - Okay Google, turn off the light.        demo of 03.wav: https://youtu.be/SziQKC9MctM   SRoA: 15/30
 
-    04.wav/04_TTS_music.wav - Okay Google, play music.
+    04.wav/04_TTS_music.wav - Okay Google, play music.                demo of 04.wav: https://youtu.be/hL7yPXqK7Ws   SRoA:28/30
 
 Target IVC service: Microsoft Cortana
 
