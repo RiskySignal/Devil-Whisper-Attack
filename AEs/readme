@@ -1,3 +1,5 @@
+01.wav-08.wav are the AEs used for the comparison tests with different approaches of Table 3 (Other straightforward approaches of Section 6.4) and Human Perception study of Section 6.5. 01_TTS_music.wav~08_TTS_music.wav are the "Original song + TTS" audios of Table 3. The injected commands of them are as follows.
+
 Target IVC service: Google Assistant
 
     01.wav/01_TTS_music.wav - Okay Google, take a picture.            demo of 01.wav: https://youtu.be/7HRn3m-Z-GU   SRoA: 5/30
