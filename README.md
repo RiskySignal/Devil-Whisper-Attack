@@ -8,7 +8,7 @@ The five original music clips are used to generate AEs in our paper (The origina
 
       (1) Run image with `nvidia-docker`:
           
-          nvidia-docker run -it neeze/devil_whisper:v1.1 /bin/bash
+          nvidia-docker run -it neeze/devilwhisper:v1.1 /bin/bash
 
 	  (2) Enter project folder:
 			
